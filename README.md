@@ -31,7 +31,8 @@ A retail company wants to understand customer behavior, identify high-value cust
 - Analyzed customer demographics and behavior patterns
 - Generated insights for targeted marketing strategies
 
---- ## 📊 Dataset
+---
+## 📊 Dataset
 
 The dataset contains:
 - Customer master data (demographics)
