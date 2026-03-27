@@ -31,11 +31,22 @@ A retail company wants to understand customer behavior, identify high-value cust
 - Analyzed customer demographics and behavior patterns
 - Generated insights for targeted marketing strategies
 
+--- ## 📊 Dataset
+
+The dataset contains:
+- Customer master data (demographics)
+- Transaction data
+
+Total:
+- ~23,000 transactions
+- ~1,000 customers  
+
 ---
 
 ## 📁 Files Included
 - `customer-data-analysis.ipynb` → Full analysis with code and outputs
 - `customer-data-analysis.pdf` → Project report
+- `data/` → Contains dataset files (customer data and transaction data)
 
 
 ## 🎯 Objective
