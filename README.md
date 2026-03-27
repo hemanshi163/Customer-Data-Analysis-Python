@@ -32,6 +32,15 @@ A retail company wants to understand customer behavior, identify high-value cust
 - Generated insights for targeted marketing strategies
 
 ---
+
+## 💡 Business Recommendations
+
+- Target high-value customers with loyalty and retention programs
+- Re-engage inactive customers using personalized marketing campaigns
+- Focus on increasing frequency of mid-value customers
+- Optimize marketing spend by focusing on high-return segments
+
+---
 ## 📊 Dataset
 
 The dataset contains:
