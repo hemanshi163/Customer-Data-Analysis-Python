@@ -30,6 +30,7 @@ A retail company wants to understand customer behavior, identify high-value cust
 - Identified high-value customers using RFM analysis
 - Analyzed customer demographics and behavior patterns
 - Generated insights for targeted marketing strategies
+<img width="926" height="583" alt="image" src="https://github.com/user-attachments/assets/ffd883ff-2452-498b-86cc-25f876ec94ef" />
 
 ---
 
